@@ -1,23 +1,23 @@
 <h1 align="center">
-  <img alt="GorRstaurant" src="https://res.cloudinary.com/dtifsqadc/image/upload/v1593630059/logo_rgbnxa.svg" />
+  <img alt="GoRestaurant" src="https://res.cloudinary.com/dtifsqadc/image/upload/v1593630059/logo_rgbnxa.svg" />
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/GorRstaurant.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/gorestaurant.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/GorRstaurant.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/gorestaurant.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/GorRstaurant.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/gorestaurant.svg">
 
-  <a href="https://github.com/melquisedecfelipe/GorRstaurant/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/GorRstaurant.svg">
+  <a href="https://github.com/melquisedecfelipe/gorestaurant/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/gorestaurant.svg">
   </a>
 
-  <a href="https://github.com/melquisedecfelipe/GorRstaurant/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/GorRstaurant.svg">
+  <a href="https://github.com/melquisedecfelipe/gorestaurant/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/gorestaurant.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/GorRstaurant.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/gorestaurant.svg">
 </p>
 
 <p align="center">
@@ -43,10 +43,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/melquisedecfelipe/GorRstaurant
+$ git clone https://github.com/melquisedecfelipe/gorestaurant
 
 # Go into the repository
-$ cd GorRstaurant
+$ cd gorestaurant
 
 # Go into the backend and install dependencies
 $ cd backend && yarn
@@ -57,7 +57,7 @@ $ yarn dev:server
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/GorRstaurant/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/gorestaurant/blob/master/LICENSE) for more information.
 
 ---
 
