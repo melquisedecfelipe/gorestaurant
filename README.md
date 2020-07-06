@@ -37,6 +37,27 @@ Backend
 - [Typeorm](https://typeorm.io/)
 - [Typescript](https://www.typescriptlang.org/)
 
+Frontend
+
+- [Axios](https://github.com/axios/axios)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [React](https://reactjs.org/)
+- [React icons](https://react-icons.github.io/react-icons/)
+- [React modal](https://github.com/reactjs/react-modal)
+- [Styled components](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/)
+
+Mobile
+
+- [Axios](https://github.com/axios/axios)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [React native](https://facebook.github.io/react-native/)
+- [React navigation](https://reactnavigation.org/)
+- [Styled components](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/)
+
 ## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
@@ -53,6 +74,27 @@ $ cd backend && yarn
 
 # Run backend
 $ yarn dev:server
+
+# Go into the frontend and install dependencies
+$ cd frontend && yarn
+
+# Run server
+$ yarn json-server server.json -p 3333
+
+# Run frontend
+$ yarn start
+
+# Go into the mobile and install dependencies
+$ cd mobile && yarn
+
+# Run server
+$ yarn json-server server.json -p 3333
+
+# Run app (ios)
+$ yarn ios
+
+# Run app (android)
+$ yarn android
 ```
 
 ## :memo: License
